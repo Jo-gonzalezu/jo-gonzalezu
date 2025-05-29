@@ -1,5 +1,3 @@
-## Hi there 👋
-
 🙋‍♂️ Hi, I'm @jo-gonzalez 
 🔧 I'm interested in backend development  
 🌱 I'm currently learning how to build APIs  
