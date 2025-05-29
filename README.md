@@ -1,4 +1,4 @@
-🙋‍♂️ Hi, I'm @jo-gonzalez 
+🙋‍♂️ Hi, I'm @jo-gonzalez
 💜 I'm interested in backend development  
 🌱 I'm currently learning how to build APIs  
 🤝 I'm looking to collaborate on backend-related projects  
