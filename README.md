@@ -1,6 +1,5 @@
-🙋‍♂️ Hi, I'm @jo-gonzalez
-
-💜 I'm interested in backend development  
-🌱 I'm currently learning how to build APIs  
-🤝 I'm looking to collaborate on backend-related projects  
-🔗 You can find me on LinkedIn as jo-gonzalezu
+- 🙋‍♂️ Hi, I'm @jo-gonzalez
+- 💜 I'm interested in backend development  
+- 🌱 I'm currently learning how to build APIs  
+- 🤝 I'm looking to collaborate on backend-related projects  
+- 🔗 You can find me on LinkedIn as jo-gonzalezu
